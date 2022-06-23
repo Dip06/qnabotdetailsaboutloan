@@ -3,7 +3,7 @@
 i) https://sites.google.com/view/loanbuddy/home (Project url)
 
 
-Project Explanation & description 
+Project Explanation & description:
 
 ii) I made a chatbot using azure Qna Maker there i created the knowledge base for my bot & then i publish it & after that i link it to azure bot service then using gtoogle sites i create a site for my bot i get the bot embedded code & secret code  and upload it in google sites and that is all i have done and my bot works abosoulutely fine.
 
