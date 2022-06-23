@@ -1,6 +1,6 @@
 # qnabotdetailsaboutloan
 
-i) https://sites.google.com/view/loanbuddy/home(Project url)
+i) https://sites.google.com/view/loanbuddy/home (Project url)
 
 
 Project Explanation & description 
